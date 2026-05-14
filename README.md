@@ -1,8 +1,8 @@
 # Voxstrap
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/bloxstraplabs/bloxstrap/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="380">
-    <img src="https://raw.githubusercontent.com/bloxstraplabs/bloxstrap/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="380">
+    <img src="https://github.com/grootlikesgroot/Voxstrap/blob/main/Images/Voxstrap-banner.png?raw=true" width="380">
+    <img src="https://github.com/grootlikesgroot/Voxstrap/blob/main/Images/Voxstrap-banner.png?raw=true" width="380">
 </p>
 
 ----
