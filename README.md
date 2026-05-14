@@ -2,7 +2,6 @@
 
 <p align="center">
     <img src="https://github.com/grootlikesgroot/Voxstrap/blob/main/Images/Voxstrap-banner.png?raw=true" width="380">
-    <img src="https://github.com/grootlikesgroot/Voxstrap/blob/main/Images/Voxstrap-banner.png?raw=true" width="380">
 </p>
 
 ----
