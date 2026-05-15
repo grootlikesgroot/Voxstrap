@@ -1,8 +1,18 @@
 # Voxstrap
 
-<p align="center">
-    <img src="https://github.com/grootlikesgroot/Voxstrap/blob/main/Images/Voxstrap-banner.png?raw=true" width="380">
-</p>
+<div align="center">
+
+![][banner-light]
+![][banner-dark]
+
+![][badge-license]
+![][badge-actions]
+![][badge-downloads]
+[![][badge-latest]][repo-latest]
+[![][badge-discord]][discord-invite]
+![][badge-stars]
+
+</div>
 
 ----
 
