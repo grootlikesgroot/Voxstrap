@@ -22,7 +22,6 @@ It acts just like the standard Roblox bootstrapper, providing additional useful 
 
 Head over to the [Releases page](../../releases/latest) and download `Voxstrap.exe`.
 
-*(Note: The source code zip on the releases page only contains the C# UI Wrapper. The C++ Injection Logic is kept strictly private to protect offsets from being patched.)*
 
 You will also need the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true). If you don't already have it installed, you'll be prompted to install it anyway.
 
