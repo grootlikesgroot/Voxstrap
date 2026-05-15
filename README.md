@@ -1,18 +1,9 @@
 # Voxstrap
 
-<div align="center">
-
-![][banner-light]
-![][banner-dark]
-
-![][badge-license]
-![][badge-actions]
-![][badge-downloads]
-[![][badge-latest]][repo-latest]
-[![][badge-discord]][discord-invite]
-![][badge-stars]
-
-</div>
+<p align="center">
+    <img src="https://github.com/grootlikesgroot/Voxstrap/blob/main/Images/Voxstrap-Light.png?raw=true#gh-dark-mode-only" width="380">
+    <img src="https://github.com/grootlikesgroot/Voxstrap/blob/main/Images/Voxstrap-Dark.png?raw=true#gh-light-mode-only" width="380">
+</p>
 
 ----
 
